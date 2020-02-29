@@ -1,0 +1,131 @@
+{
+    "onboardings": [
+        {
+            "title": "Transform",
+            "subtitle": "Your life",
+            "details": "Create your own fitness routine where you are.",
+            "url": "https://i.ibb.co/qDbsqMD/yoga.jpg"
+        },
+        {
+            "title": "Transform",
+            "subtitle": "Your style",
+            "details": "Get the fitness level you've always wanted.",
+            "url": "https://i.ibb.co/fV32RYY/fitness-girl.jpg"
+        },
+        {
+            "title": "Transform",
+            "subtitle": "Your health",
+            "details": "Feel like never before starting today.",
+            "url": "https://i.ibb.co/B6DyZBf/health-routine.jpg"
+        }
+    ],
+    "routines": [
+        {
+            "name": "home workout",
+            "url": "https://i.ibb.co/0K0MxzZ/home-gym.jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://i.ibb.co/rwgtpPg/light-weights.jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://i.ibb.co/BjXLRpt/heavy-lifting.jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        }
+    ],
+    "exercices": [
+        {
+            "id": 1,
+            "name": "squat",
+            "url": "https://i.ibb.co/YTQR6zR/squat.jpg",
+            "description": "A squat is a strength exercise in which the trainee lowers his or her hips from a standing position and then stands back up. During the descent of a squat, the hip and knee joints flex while the ankle joint dorsiflexes; conversely the hip and knee joints extend and the ankle joint plantarflexes when standing up."
+        },
+        {
+            "id": 2,
+            "name": "leg press",
+            "url": "https://i.ibb.co/j41FbjS/leg-press.jpg",
+            "description": "The leg press is a weight training exercise in which the individual pushes a weight or resistance away from them using their legs. The leg press can be used to evaluate an athlete's overall lower body strength. It has the potential to inflict grave injury: the knees could bend the wrong way if they are locked during a leg press."
+        },
+        {
+            "id": 3,
+            "name": "lunge",
+            "url": "https://i.ibb.co/ZcZs0fB/lounges.jpg",
+            "description": "Position of the human body where one leg is positioned forward with knee bent and foot flat on the ground while the other leg is positioned behind. It is used by athletes in cross-training for sports, by weight-trainers as a fitness exercise, and by practitioners of yoga as part of an asana regimen."
+        },
+        {
+            "id": 4,
+            "name": "deadlift",
+            "url": "https://i.ibb.co/9bQvCJ7/deadlift.jpg",
+            "description": "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press."
+        },
+        {
+            "id": 5,
+            "name": "leg extension",
+            "url": "https://i.ibb.co/9tBxSfW/leg-extensions.jpg",
+            "description": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different. Most gym and weight rooms will have the machine in their facility. The leg extension is an isolated exercise targeting one specific muscle group, the quadriceps. It should not be considered as a total leg workout, such as the squat or deadlift."
+        },
+        {
+            "id": 6,
+            "name": "bench press",
+            "url": "https://i.ibb.co/qxFPZSG/bench-press.jpg",
+            "description": "The bench press is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used."
+        },
+        {
+            "id": 7,
+            "name": "push ups",
+            "url": "https://i.ibb.co/8YYPk5x/push-ups.jpg",
+            "description": "A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training. They are also a common form of punishment used in the military, school sport, or some martial arts disciplines."
+        },
+        {
+            "id": 8,
+            "name": "pull down",
+            "url": "https://i.ibb.co/jfFyHCK/pull-down.jpg",
+            "description": "The pulldown exercise is a strength training exercise designed to develop the latissimus dorsi muscle. It performs the functions of downward rotation and depression of the scapulae combined with adduction and extension of the shoulder joint."
+        },
+        {
+            "id": 9,
+            "name": "pull up",
+            "url": "https://i.ibb.co/y5rbVgc/pull-up.jpg",
+            "description": "A pull-up is an upper-body strength exercise. The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up. As this happens, the elbows flex and the shoulders adduct and extend to bring the elbows to the torso."
+        },
+        {
+            "id": 10,
+            "name": "shoulder press",
+            "url": "https://i.ibb.co/k0Nzhhr/shoulder-press.jpg",
+            "description": "The press, overhead press or shoulder press is a weight training exercise with many variations, typically performed while standing, in which a weight is pressed straight upwards from racking position until the arms are locked out overhead, while the legs, lower back and abs maintain balance. The exercise helps build muscular shoulders with bigger arms, and is one of the most difficult compound upper-body exercises."
+        },
+        {
+            "id": 11,
+            "name": "push down",
+            "url": "https://i.ibb.co/Yh5CChT/push-down.jpg",
+            "description": "A pushdown is a strength training exercise used for strengthening the triceps muscles in the back of the arm. The exercise is completed by pushing an object downward against resistance. This exercise is an example of the primary function of the triceps, extension of the elbow joint."
+        },
+        {
+            "id": 12,
+            "name": "triceps extensions",
+            "url": "https://i.ibb.co/3rgbWBb/triceps.jpg",
+            "description": "Triceps extensions, also known as skull crushers and French extensions or French presses, are a strength exercise used in many different forms of strength training. Triceps extensions are one of the most stimulating exercises to the entire triceps muscle group in the upper arm. It works the triceps from the elbow all the way to the latissimus dorsi. Due to its full use of the Triceps muscle group, the triceps extensions are used by many as part of their training regimen."
+        },
+        {
+            "id": 13,
+            "name": "biceps curl",
+            "url": "https://i.ibb.co/71vzF7g/biceps.jpg",
+            "description": "A bicep curl is general title for a series of strength exercise that involves brachioradialis, front deltoid and mainly target on biceps brachii. Includes variations that using barbell, dumbbell and resistance band, etc. The common point amongst them is the trainee to lift a certain amount of weight and contract the biceps brachii while tuck in their arms to the torso during the concentric phase, once the biceps brachii is fully contracted then return the weight to starting position during the eccentric phase."
+        },
+        {
+            "id": 14,
+            "name": "crunches",
+            "url": "https://i.ibb.co/WDfrp0Q/crunches.jpg",
+            "description": "The crunch is one of the most popular abdominal exercises. It involves the entire abs, but primarily it works the rectus abdominis muscle and also works the obliques. It allows both building six-pack abs, and tightening the belly."
+        },
+        {
+            "id": 15,
+            "name": "leg rise",
+            "url": "https://i.ibb.co/3y6XxWc/leg-rise.jpg",
+            "description": "The leg raise is a strength training exercise which targets the iliopsoas. Because the abdominal muscles are used isometrically to stabilize the body during the motion, leg raises are also often used to strengthen the rectus abdominis muscle and the internal and external oblique muscles."
+        }
+    ]
+}
