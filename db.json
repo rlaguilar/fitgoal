@@ -34,6 +34,141 @@
             "name": "heavy lifting",
             "url": "https://i.ibb.co/BjXLRpt/heavy-lifting.jpg",
             "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?cs=srgb&dl=man-and-woman-holding-battle-ropes-1552242.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=woman-doing-exercise-inside-gym-2247179.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?cs=srgb&dl=adult-athlete-body-bodybuilding-414029.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/905336/pexels-photo-905336.jpeg?cs=srgb&dl=three-woman-in-assorted-color-sport-bras-holding-and-905336.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/864939/pexels-photo-864939.jpeg?cs=srgb&dl=selective-focus-photography-of-woman-in-white-sports-864939.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/3076509/pexels-photo-3076509.jpeg?cs=srgb&dl=woman-stretching-on-ground-3076509.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/396133/pexels-photo-396133.jpeg?cs=srgb&dl=abdomen-active-activity-belly-button-396133.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/3076513/pexels-photo-3076513.jpeg?cs=srgb&dl=woman-wearing-orange-leggings-and-white-tank-top-doing-pull-3076513.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/2294353/pexels-photo-2294353.jpeg?cs=srgb&dl=photo-of-woman-doing-yoga-2294353.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/700392/pexels-photo-700392.jpeg?cs=srgb&dl=man-in-black-tank-top-inside-gym-700392.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/50597/man-male-boy-a-person-50597.jpeg?cs=srgb&dl=man-in-muscle-back-view-50597.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/2011383/pexels-photo-2011383.jpeg?cs=srgb&dl=man-touching-woman-on-her-belly-while-lying-on-floor-2011383.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/1092873/pexels-photo-1092873.jpeg?cs=srgb&dl=person-standing-in-front-of-green-and-gray-barbell-1092873.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?cs=srgb&dl=active-adult-athlete-body-416778.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/1153369/pexels-photo-1153369.jpeg?cs=srgb&dl=adult-cutting-daylight-facial-expression-1153369.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/1300526/pexels-photo-1300526.jpeg?cs=srgb&dl=woman-exercising-bear-body-of-water-1300526.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/2036998/pexels-photo-2036998.jpeg?cs=srgb&dl=woman-wearing-blue-sports-bra-sitting-on-concrete-floor-2036998.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?cs=srgb&dl=woman-lifting-barbell-1552249.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/1671217/pexels-photo-1671217.jpeg?cs=srgb&dl=two-woman-doing-exercise-1671217.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/963697/pexels-photo-963697.jpeg?cs=srgb&dl=woman-wearing-black-bra-and-pants-on-top-of-the-mountain-963697.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?cs=srgb&dl=woman-doing-exercise-inside-gym-2247179.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/999250/pexels-photo-999250.jpeg?cs=srgb&dl=woman-balancing-999250.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/374694/pexels-photo-374694.jpeg?cs=srgb&dl=fitness-girl-hands-lifestyle-374694.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/373946/pexels-photo-373946.jpeg?cs=srgb&dl=woman-standing-on-pink-yoga-mat-meditating-373946.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://images.pexels.com/photos/1089144/pexels-photo-1089144.jpeg?cs=srgb&dl=woman-in-gray-and-black-sports-bra-1089144.jpg&fm=jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://images.pexels.com/photos/3735479/pexels-photo-3735479.jpeg?cs=srgb&dl=woman-in-black-sports-bra-and-black-leggings-doing-yoga-on-3735479.jpg&fm=jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://images.pexels.com/photos/3758145/pexels-photo-3758145.jpeg?cs=srgb&dl=photo-of-woman-sitting-on-yoga-mat-3758145.jpg&fm=jpg",
+            "exercices": [1, 2, 4, 6, 13]
         }
     ],
     "exercices": [
