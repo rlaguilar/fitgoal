@@ -89,6 +89,31 @@
             "name": "light weights",
             "url": "https://i.ibb.co/DgRYJSC/yoga.jpg",
             "exercices": [8]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://i.ibb.co/7zWyWvH/active.jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://i.ibb.co/1GpB4S3/barbell.jpg",
+            "exercices": [3, 7, 14, 15]
+        },
+        {
+            "name": "light weights",
+            "url": "https://i.ibb.co/QcBjjxN/bear.jpg",
+            "exercices": [8, 9, 10, 11, 12]
+        },
+        {
+            "name": "heavy lifting",
+            "url": "https://i.ibb.co/RTXTBf6/cutting.jpg",
+            "exercices": [1, 2, 4, 6, 13]
+        },
+        {
+            "name": "home workout",
+            "url": "https://i.ibb.co/nzdmshj/touching.jpg",
+            "exercices": [3, 7, 14, 15]
         }
     ],
     "exercices": [
