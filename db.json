@@ -38,57 +38,57 @@
         {
             "name": "home workout",
             "url": "https://i.ibb.co/yh1h20d/battle.jpg",
-            "exercices": [3, 7, 14, 15]
+            "exercices": [3]
         },
         {
             "name": "light weights",
             "url": "https://i.ibb.co/j5HqSnF/belly.jpg",
-            "exercices": [8, 9, 10, 11, 12]
+            "exercices": [8]
         },
         {
             "name": "heavy lifting",
             "url": "https://i.ibb.co/2sSYHNb/cap.jpg",
-            "exercices": [1, 2, 4, 6, 13]
+            "exercices": [1]
         },
         {
             "name": "home workout",
             "url": "https://i.ibb.co/CM0G2PB/focus.jpg",
-            "exercices": [3, 7, 14, 15]
+            "exercices": [3]
         },
         {
             "name": "light weights",
             "url": "https://i.ibb.co/kGJKjbB/inside-gym.jpg",
-            "exercices": [8, 9, 10, 11, 12]
+            "exercices": [8]
         },
         {
             "name": "heavy lifting",
             "url": "https://i.ibb.co/t4Gpj8z/leggings.jpg",
-            "exercices": [1, 2, 4, 6, 13]
+            "exercices": [1]
         },
         {
             "name": "home workout",
             "url": "https://i.ibb.co/wLzN9cq/muscle.jpg",
-            "exercices": [3, 7, 14, 15]
+            "exercices": [3]
         },
         {
             "name": "light weights",
             "url": "https://i.ibb.co/qMCr1Xz/phone.jpg",
-            "exercices": [8, 9, 10, 11, 12]
+            "exercices": [8]
         },
         {
             "name": "heavy lifting",
             "url": "https://i.ibb.co/9tmGYsp/ropes.jpg",
-            "exercices": [1, 2, 4, 6, 13]
+            "exercices": [1]
         },
         {
             "name": "home workout",
             "url": "https://i.ibb.co/CPfSxJc/stretching.jpg",
-            "exercices": [3, 7, 14, 15]
+            "exercices": [3]
         },
         {
             "name": "light weights",
             "url": "https://i.ibb.co/DgRYJSC/yoga.jpg",
-            "exercices": [8, 9, 10, 11, 12]
+            "exercices": [8]
         }
     ],
     "exercices": [
@@ -102,7 +102,7 @@
             "id": 2,
             "name": "leg press",
             "url": "https://i.ibb.co/j41FbjS/leg-press.jpg",
-            "description": "The leg press is a weight training exercise in which the individual pushes a weight or resistance away from them using their legs. The leg press can be used to evaluate an athlete's overall lower body strength. It has the potential to inflict grave injury: the knees could bend the wrong way if they are locked during a leg press."
+            "description": "The leg press is a weight training exercise in which the individual pushes a weight or resistance away from them using their legs. The leg press can be used to evaluate an athlete's overall lower body strength."
         },
         {
             "id": 3,
@@ -120,19 +120,19 @@
             "id": 5,
             "name": "leg extension",
             "url": "https://i.ibb.co/9tBxSfW/leg-extensions.jpg",
-            "description": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different. Most gym and weight rooms will have the machine in their facility. The leg extension is an isolated exercise targeting one specific muscle group, the quadriceps. It should not be considered as a total leg workout, such as the squat or deadlift."
+            "description": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different."
         },
         {
             "id": 6,
             "name": "bench press",
             "url": "https://i.ibb.co/qxFPZSG/bench-press.jpg",
-            "description": "The bench press is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used."
+            "description": "The bench press is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles."
         },
         {
             "id": 7,
             "name": "push ups",
             "url": "https://i.ibb.co/8YYPk5x/push-ups.jpg",
-            "description": "A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training. They are also a common form of punishment used in the military, school sport, or some martial arts disciplines."
+            "description": "A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole."
         },
         {
             "id": 8,
@@ -150,7 +150,7 @@
             "id": 10,
             "name": "shoulder press",
             "url": "https://i.ibb.co/k0Nzhhr/shoulder-press.jpg",
-            "description": "The press, overhead press or shoulder press is a weight training exercise with many variations, typically performed while standing, in which a weight is pressed straight upwards from racking position until the arms are locked out overhead, while the legs, lower back and abs maintain balance. The exercise helps build muscular shoulders with bigger arms, and is one of the most difficult compound upper-body exercises."
+            "description": "The press, overhead press or shoulder press is a weight training exercise with many variations, typically performed while standing, in which a weight is pressed straight upwards from racking position until the arms are locked out overhead, while the legs, lower back and abs maintain balance."
         },
         {
             "id": 11,
@@ -162,13 +162,13 @@
             "id": 12,
             "name": "triceps extensions",
             "url": "https://i.ibb.co/3rgbWBb/triceps.jpg",
-            "description": "Triceps extensions, also known as skull crushers and French extensions or French presses, are a strength exercise used in many different forms of strength training. Triceps extensions are one of the most stimulating exercises to the entire triceps muscle group in the upper arm. It works the triceps from the elbow all the way to the latissimus dorsi. Due to its full use of the Triceps muscle group, the triceps extensions are used by many as part of their training regimen."
+            "description": "Triceps extensions, also known as skull crushers and French extensions or French presses, are a strength exercise used in many different forms of strength training. Triceps extensions are one of the most stimulating exercises to the entire triceps muscle group in the upper arm."
         },
         {
             "id": 13,
             "name": "biceps curl",
             "url": "https://i.ibb.co/71vzF7g/biceps.jpg",
-            "description": "A bicep curl is general title for a series of strength exercise that involves brachioradialis, front deltoid and mainly target on biceps brachii. Includes variations that using barbell, dumbbell and resistance band, etc. The common point amongst them is the trainee to lift a certain amount of weight and contract the biceps brachii while tuck in their arms to the torso during the concentric phase, once the biceps brachii is fully contracted then return the weight to starting position during the eccentric phase."
+            "description": "A bicep curl is general title for a series of strength exercise that involves brachioradialis, front deltoid and mainly target on biceps brachii. Includes variations that using barbell, dumbbell and resistance band, etc"
         },
         {
             "id": 14,
